@@ -3,9 +3,8 @@
 Hi! 👋 I’m CrazyBoy95YT, a developer and tech enthusiast from Bangladesh. I started coding 2 years ago and love creating innovative solutions.
 
 ### Skills
-- **Languages**: [e.g., Python, JavaScript, Java]
-- **Frameworks**: [e.g., React, Django, TensorFlow]
-- **Tools**: [e.g., Git, Docker, VSCode]
+- **Languages**: [Python, Java, JavaScript]
+- **Tools**: [Git, Docker, VSCode]
 
 ### Interests
 - **Learning**: Always exploring new technologies. Currently into website developing.
