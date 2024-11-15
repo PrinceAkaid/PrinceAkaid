@@ -12,8 +12,8 @@ Hi! 👋 I’m CrazyBoy95YT, a developer and tech enthusiast from Bangladesh. I 
 - **Hobbies**: When not coding, I enjoy making minecraft resource packs.
 
 ### Projects
-- **[Crazy PvP Pack]**: (https://modrinth.com/resourcepack/crazy-pvp-pack)
-- **[Blocks 3D]**: (https://modrinth.com/resourcepack/blocks-3d/)
+- **[Crazy PvP Pack](https://modrinth.com/resourcepack/crazy-pvp-pack)**
+- **[Blocks 3D](https://modrinth.com/resourcepack/blocks-3d/)**
 
 ### Get in Touch
 Let’s connect on [Twitter, LinkedIn, email, etc.]. I’m always up for new ideas and collaborations.
