@@ -15,6 +15,6 @@ Hi! 👋 I’m CrazyBoy95YT, a developer and tech enthusiast from Bangladesh. I 
 - **[Blocks 3D](https://modrinth.com/resourcepack/blocks-3d/)**
 
 ### Get in Touch
-**Discord:** crazyboy95yt
-**Modrinth:** https://modrinth.com/user/CrazyBoy95YT
-**YouTube:** https://www.youtube.com/@crazyboy95yt
+- **Discord:** crazyboy95yt
+- **Modrinth:** https://modrinth.com/user/CrazyBoy95YT
+- **YouTube:** https://www.youtube.com/@crazyboy95yt
