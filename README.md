@@ -19,4 +19,4 @@ Hi! 👋 I’m CrazyBoy95YT, a developer and tech enthusiast from Bangladesh. I 
 ### Get in Touch
 - **Discord:** crazyboy9554
 - **Modrinth:** https://modrinth.com/user/v5VKudf9
-- **YouTube:** https://www.youtube.com/@crazyboy95yt
+- **YouTube:** https://www.youtube.com/@CrazyBoy72-a2m
