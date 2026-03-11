@@ -1,9 +1,9 @@
 ## About Me
 
-Hi! 👋 I’m CrazyBoy95YT, a developer and tech enthusiast from Bangladesh. I started coding 2 years ago and love creating innovative solutions.
+Hi! 👋 I’m Ecoson, a developer and tech enthusiast from Bangladesh. I started coding 3 years ago and love creating innovative solutions.
 
 ### Skills
-- **Languages**: None
+- **Languages**: Javascript
 - **Tools**: VSCode
 
 ### Interests
@@ -17,6 +17,6 @@ Hi! 👋 I’m CrazyBoy95YT, a developer and tech enthusiast from Bangladesh. I 
 - **[Mafiya's 10k Pack](https://modrinth.com/resourcepack/mafiya-10k-pack)**
 
 ### Get in Touch
-- **Discord:** crazyboy9554
-- **Modrinth:** https://modrinth.com/user/v5VKudf9
-- **YouTube:** https://www.youtube.com/@CrazyBoy72-a2m
+- **Discord:** ecoson2
+- **Modrinth:** https://modrinth.com/user/Ecoson
+- **YouTube:** https://www.youtube.com/@ecoson2
